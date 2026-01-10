@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Focused+Engineer;Building+Clean+and+Scalable+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+things+that+solve+real+problems.;React-focused+MERN+Developer;Clean+Code+Over+Clever+Code" />
 </p>
 
 ## 👋 Hi, I'm Sri Ram
